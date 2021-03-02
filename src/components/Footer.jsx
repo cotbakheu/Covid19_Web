@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <div className="text-center p-3" style={{ backgroundColor: 'ThreeDLightShadow' }}>
+        <div className="text-center p-3 fixed-bottom" style={{ backgroundColor: 'ThreeDLightShadow' }}>
             <span>&#169; Ferdy Aqliyansyah (2021)</span>
         </div>
     )
