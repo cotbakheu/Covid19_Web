@@ -13,7 +13,7 @@ const Home = () => {
                         <div className="input-group my-3">
                             <div className="input-group-prepend">
                                 <span className="input-group-text" id="basic-addon1">
-                                    <i class="far fa-envelope"></i></span>
+                                    <i className="far fa-envelope"></i></span>
                             </div>
                             <input type="email" className="form-control" placeholder="Email" />
                         </div>
